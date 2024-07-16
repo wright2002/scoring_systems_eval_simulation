@@ -1,0 +1,1 @@
+The scoring_systems_evaluation model is licensed as provided for by the authors. Please contact them for details.

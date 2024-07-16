@@ -1,0 +1,17 @@
+<repast.simphony.data2.engine.FileSinkDescriptor simphonyVersion="2.10.0">
+  <name>TestResults</name>
+  <dataSet>VulnCounts</dataSet>
+  <delimiter>,</delimiter>
+  <format>TABULAR</format>
+  <sourceIds class="linked-hash-set">
+    <string>tick</string>
+    <string>Marist_KEVs</string>
+    <string>CVSS_KEVs</string>
+    <string>EPSS_KEVs</string>
+    <string>FIFO_KEVs</string>
+    <string>LIFO_KEVs</string>
+    <string>Random_KEVs</string>
+  </sourceIds>
+  <fileName>TestResults.csv</fileName>
+  <addTimeStamp>true</addTimeStamp>
+</repast.simphony.data2.engine.FileSinkDescriptor>
